@@ -1,0 +1,30 @@
+{
+  "name": "bridgethegapsite",
+  "version": "1.0.0",
+  "description": "A lightweight frontfacing site for the charity BridgeTheGap",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npm install -g live-server",
+    "start": "live-server --port=8000 --host=localhost --open=src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaulDavidTucker/BridgeTheGapSite.git"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  },
+  "keywords": [
+    "HTML",
+    "JavaScript",
+    "CSS",
+    "Bootstrap"
+  ],
+  "author": "Paul Tucker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PaulDavidTucker/BridgeTheGapSite/issues"
+  },
+  "homepage": "https://github.com/PaulDavidTucker/BridgeTheGapSite#readme"
+}
