@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "npm install -g live-server",
-    "start": "live-server --port=8000 --host=localhost --open=src/index.html"
+    "start": "live-server --port=8000 --host=localhost --open=index.html"
   },
   "repository": {
     "type": "git",
